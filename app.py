@@ -8,7 +8,7 @@ CORS(app)
 # Base WHO API URL
 BASE_URL = "https://ghoapi.azureedge.net/api"
 
-# Updated indicator codes (sample placeholders — replace with actual indicators as needed)
+# indicator codes
 INDICATORS = {
     "hepatitis_b": "SDGHEPHBSAGPRV",
     "hiv": "HIV_0000000026",
@@ -64,3 +64,4 @@ if __name__ == "__main__":
 #PRISON_D3_DEATHS_COVID_MRATE
 #PRISON_D4_COVID_TOT
 #WHS3_50 yellow
+
